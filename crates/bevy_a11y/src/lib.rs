@@ -8,7 +8,7 @@
 
 //! Accessibility for Bevy
 //!
-//! As of Bevy version 0.15 `accesskit` is no longer re-exported from this crate.
+//! As of Bevy version 0.15, `accesskit` is no longer re-exported from this crate.
 //!
 //! If you need to use `accesskit`, you will need to add it as a separate dependency in your `Cargo.toml`.
 //!
